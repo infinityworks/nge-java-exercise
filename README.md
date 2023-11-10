@@ -1,4 +1,4 @@
-# Infinity Works - Full Stack Tech Test
+# NGE - Full Stack Tech Test
 
 ![Preview of Frontend](preview.png)
 
