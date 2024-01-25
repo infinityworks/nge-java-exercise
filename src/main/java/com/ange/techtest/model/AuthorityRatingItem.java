@@ -1,4 +1,4 @@
-package com.infinityworks.techtest.model;
+package com.ange.techtest.model;
 
 /**
  * A single rating item.

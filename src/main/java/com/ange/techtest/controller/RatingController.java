@@ -1,9 +1,9 @@
-package com.infinityworks.techtest.controller;
+package com.ange.techtest.controller;
 
-import com.infinityworks.techtest.model.AuthorityRatingItem;
-import com.infinityworks.techtest.model.FSAAuthority;
-import com.infinityworks.techtest.model.FSAAuthorityList;
-import com.infinityworks.techtest.model.Authority;
+import com.ange.techtest.model.AuthorityRatingItem;
+import com.ange.techtest.model.FSAAuthority;
+import com.ange.techtest.model.FSAAuthorityList;
+import com.ange.techtest.model.Authority;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
