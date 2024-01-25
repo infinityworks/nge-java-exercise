@@ -1,4 +1,4 @@
-package com.infinityworks.techtest.app;
+package com.ange.techtest.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,11 +7,11 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-@ComponentScan("com.infinityworks.techtest")
-public class IwTechTestApplication {
+@ComponentScan("com.ange.techtest")
+public class AngeTechTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IwTechTestApplication.class, args);
+		SpringApplication.run(AngeTechTestApplication.class, args);
 	}
 	@Bean
 	public RestTemplate getRestTemplateBean(){

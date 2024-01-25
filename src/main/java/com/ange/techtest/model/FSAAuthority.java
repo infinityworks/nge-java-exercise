@@ -1,4 +1,4 @@
-package com.infinityworks.techtest.model;
+package com.ange.techtest.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
